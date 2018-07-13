@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: dQeZUESAXaTUt83cEstS9xn42DzYtWAwaOx1lPGDsKS0ugnMlF71xQlLnozsdgy+ItwMCJWdugy//5JrCIZNR62GIE9AvctX7IIYe+KEvE4Jn7hIV7FxrDmqOGwJHh+XdTvP5Qc1DC8a2nasap5mAaGAdWKBnvnNkme/n3j+2lsiXmvskAi2th9ZhdEAxIiWnN+WLao454PHremFb8YQBpENGAvcrK4XAceu4y3+ZjkIqGQ67djE1QfjVDksKrp+NUXCvBiJRE1fbBxJ1P3CLzkQ5xjPNf5w5VJglzWn/bB1vZI9ZZuceU9dqtqEqWYg3KmOhcUoDizk9CPHh+MCRlhTeK1X45gcqD6aMxHgEJUZ7bfRijOFUKeu9cDw/W87Oij5b9emKo+y2QyPF+ik0IOEdyU5nrAt4wUF16Guk4kuk5smLod0o5Nc/lDmLzJJXKblYaSRwrmcCFEYB5qRmHLsbQiODAZol0/YaBaGNPa0VVs/F4SKPus/tjfOJLcJStcI4P3vueVh9qeZxUBKEgVrPOCYDFrMXswniDOYs6k5eK0VrDuEADuQ62EoGU4faBBnPnt32O1wThwzMCoqLxBPCW3KcTK3oRcHTysZaN6jfKkuwXLgUG9mt5lMtoG9x3MCoS4uRsMNtBPTRdYivoeo6TJwMC1XBAMak6MmbZg=
-  app: https://mighty-brushlands-93182.herokuapp.com/
+  app: mighty-brushlands-93182
   on:
     repo: maripal/node-shopping-list-integration-tests
